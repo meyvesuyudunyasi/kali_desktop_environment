@@ -84,14 +84,6 @@ Command:
 ## MATE Desktop ##
 ----
 # How to install MATE Desktop Environment in Kali Linux:
-Command:
-```
- echo "deb http://repo.mate-desktop.org/debian wheezy main" >> /etc/apt/sources.list && apt-get update
-```
-Command:
-```
- apt-get --yes --quiet --allow-unauthenticated install mate-archive-keyring
-```
 # This installs the base packages
 Command:
 ```
