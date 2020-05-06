@@ -21,11 +21,6 @@ Command:
 ```
  apt-get install kali-defaults kali-root-login desktop-base kde-plasma-desktop
 ```
-### How to install Netbook KDE Plasma Desktop Environment in Kali Linux:
-Command:
-```
- apt-get install kali-defaults kali-root-login desktop-base kde-plasma-netbook
-```
 ### How to install Standard Debian selected packages and frameworks in Kali Linux:
 Command:
 ```
@@ -39,7 +34,7 @@ Command:
 ### How to remove KDE on Kali Linux:
 Command:
 ```
- apt-get remove kde-plasma-desktop kde-plasma-netbook kde-standard
+ apt-get remove kde-plasma-desktop kde-standard
 ```
 ----
 ## LXDE Desktop ##
