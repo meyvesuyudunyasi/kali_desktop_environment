@@ -108,14 +108,14 @@ Command:
 ```
 In the file go down to the section named Internet and add the following line
 HTML Code:
-
+```
 <!-- Kali Linux Menu -->
 <MergeFile type="path">applications-merged/kali-applications.menu</MergeFile>
-
+```
 So it should look something like this
 HTML Code:
 
-.....
+```
  <!-- Internet -->
   <Menu>
     <Name>Internet</Name>
@@ -128,4 +128,4 @@ HTML Code:
   </Menu>   <!-- End Internet -->
 <!-- Kali Linux  -->    
   <MergeFile type="path">applications-merged/kali-applications.menu</MergeFile>
-.....
+```
